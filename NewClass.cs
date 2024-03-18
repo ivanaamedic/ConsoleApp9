@@ -1,4 +1,6 @@
-﻿using System;
+//ov je samo vjezba
+
+using System;
 
 public class Class1
 {
